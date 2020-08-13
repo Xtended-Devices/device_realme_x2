@@ -1,0 +1,14 @@
+[
+  {
+    "remote": "github",
+    "repository": "Xtended-Devices/kernel_realme_sm6150",
+    "target_path": "kernel/realme/sm6150",
+    "branch": "xq"
+  },
+  {
+    "remote": "github",
+    "repository": "Xtended-Devices/vendor_realme_x2",
+    "target_path": "vendor/realme/x2",
+    "branch": "xq"
+  }
+]
